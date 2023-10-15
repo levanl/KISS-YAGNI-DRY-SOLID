@@ -215,5 +215,5 @@ treasureMap.hintToTreasure(xAxis: startingX, yAxis: startingY)
 
 seaAdventure.encounter()
 
-pirateCode.mutiny(term: "\(seaAdventure.adventureType) wants money and he gives us save passage")
+pirateCode.mutiny(term: "\(seaAdventure.adventureType) wants money and he gives us safe passage")
 
